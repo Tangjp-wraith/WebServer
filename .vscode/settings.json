@@ -1,0 +1,22 @@
+{
+  "files.associations": {
+    "*.tcc": "cpp",
+    "string": "cpp",
+    "string_view": "cpp",
+    "sstream": "cpp",
+    "stdexcept": "cpp",
+    "streambuf": "cpp",
+    "exception": "cpp",
+    "functional": "cpp",
+    "iostream": "cpp",
+    "limits": "cpp",
+    "mutex": "cpp",
+    "numeric": "cpp",
+    "stop_token": "cpp",
+    "system_error": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "compare": "cpp",
+    "algorithm": "cpp"
+  }
+}
