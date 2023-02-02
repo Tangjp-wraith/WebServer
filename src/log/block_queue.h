@@ -1,5 +1,5 @@
 /**
- * @file block_queue.cpp
+ * @file block_queue.h
  * @author Tang Jiapeng (tangjiapeng0215@gmail.com)
  * @brief
  * @version 0.1
@@ -20,7 +20,7 @@
 template <class T>
 class BlockQueue {
  public:
-  explicit BlockQueue(size_t MaxCapatity = 1000);
+  explicit BlockQueue(size_t MaxCapatity = 1024);
   ~BlockQueue();
   void clear();
   bool empty();
