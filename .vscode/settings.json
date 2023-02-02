@@ -17,6 +17,7 @@
     "type_traits": "cpp",
     "utility": "cpp",
     "compare": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "thread": "cpp"
   }
 }
