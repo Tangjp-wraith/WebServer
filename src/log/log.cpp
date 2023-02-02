@@ -156,11 +156,11 @@ void Log::AppendLogLevelTitle(int level) {
 
 Log::Log()
     : line_count_(0),
-      is_async_(false),
-      write_thread_(nullptr),
-      deque_(nullptr),
       today_(0),
-      fp_(nullptr) {}
+      is_async_(false),
+      fp_(nullptr),
+      deque_(nullptr),
+      write_thread_(nullptr) {}
 
 Log::~Log() {
   if (write_thread_ && write_thread_->joinable()) {

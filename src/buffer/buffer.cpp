@@ -28,7 +28,7 @@ void Buffer::EnsureWriteable(size_t len) {
   assert(WriteableBytes() >= len);
 }
 
-void Buffer::HasWritten(size_t len) { wirte_pos_ + len; }
+void Buffer::HasWritten(size_t len) { wirte_pos_ += len; }
 
 void Buffer::Retrieve(size_t len) {
   assert(len <= ReadableBytes());
