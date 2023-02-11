@@ -12,7 +12,7 @@
 #define BLOCK_QUEUE_H
 
 #include <sys/time.h>
-
+#include <assert.h>
 #include <condition_variable>
 #include <deque>
 #include <mutex>
