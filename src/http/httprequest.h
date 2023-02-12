@@ -20,7 +20,7 @@
 #include <unordered_set>
 
 #include "../log/log.h"
-#include "../pool/sqkconnRAII.h"
+#include "../pool/sqlconnRAII.h"
 #include "../pool/sqlconnpool.h"
 
 class HttpRequest {
