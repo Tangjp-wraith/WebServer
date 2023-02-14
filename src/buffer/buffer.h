@@ -8,7 +8,7 @@
  * @copyright Copyright (c) 2023
  *
  */
-#ifndef BUFEER_H
+#ifndef BUFFER_H
 #define BUFFER_H
 
 #include <assert.h>
