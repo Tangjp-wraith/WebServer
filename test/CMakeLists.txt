@@ -1,0 +1,2 @@
+file(GLOB WEBSERVER_TEST_SOURCES "${PROJECT_SOURCE_DIR}/test/*.cpp")
+

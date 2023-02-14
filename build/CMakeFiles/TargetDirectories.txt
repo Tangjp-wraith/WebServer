@@ -1,0 +1,3 @@
+/home/tang/WebServer/build/CMakeFiles/server.dir
+/home/tang/WebServer/build/CMakeFiles/edit_cache.dir
+/home/tang/WebServer/build/CMakeFiles/rebuild_cache.dir
