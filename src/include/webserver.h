@@ -62,7 +62,7 @@ class WebServer {
 
   int port_;
   bool openLinger_;
-  int timeoutMS_; /* 毫秒MS */
+  int timeoutMS_; 
   bool isClose_;
   int listenFd_;
   char* srcDir_;

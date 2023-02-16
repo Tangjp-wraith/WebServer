@@ -1,0 +1,104 @@
+2023-02-16 18:37:40.366416 [info] : ========== Server init ==========
+2023-02-16 18:37:40.366446 [info] : Port:1316, OpenLinger: false
+2023-02-16 18:37:40.366452 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-16 18:37:40.366455 [info] : LogSys level: 0
+2023-02-16 18:37:40.366457 [info] : srcDir: /home/tang/WebServer/resources/
+2023-02-16 18:37:40.366459 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-16 18:37:40.366461 [info] : ========== Server start ==========
+2023-02-16 18:37:57.571018 [info] : Client[6](127.0.0.1:53427) in, userCount:1
+2023-02-16 18:37:57.571182 [info] : Client[6] in!
+2023-02-16 18:37:57.574204 [debug]: [GET], [/index.html], [1.1]
+2023-02-16 18:37:57.574362 [debug]: /index.html
+2023-02-16 18:37:57.574418 [debug]: filesize:0, 1  to 620757246
+2023-02-16 18:37:57.574677 [info] : Client[6] quit!
+2023-02-16 18:37:57.574815 [info] : Client[6](127.0.0.1:53427) quit, UserCount:0
+2023-02-16 18:37:57.649311 [info] : Client[6](127.0.0.1:53939) in, userCount:1
+2023-02-16 18:37:57.649421 [info] : Client[6] in!
+2023-02-16 18:37:57.835287 [info] : Client[7](127.0.0.1:54451) in, userCount:2
+2023-02-16 18:37:57.835418 [info] : Client[7] in!
+2023-02-16 18:37:57.855403 [debug]: [GET], [/favicon.ico], [1.1]
+2023-02-16 18:37:57.855544 [debug]: /favicon.ico
+2023-02-16 18:37:57.855610 [debug]: filesize:0, 1  to 620757246
+2023-02-16 18:37:57.855811 [info] : Client[6] quit!
+2023-02-16 18:37:57.855956 [info] : Client[6](127.0.0.1:53939) quit, UserCount:1
+2023-02-16 18:37:58.860458 [debug]: [GET], [/index.html], [1.1]
+2023-02-16 18:37:58.860686 [debug]: /index.html
+2023-02-16 18:37:58.860763 [debug]: filesize:0, 1  to 254
+2023-02-16 18:37:59.064241 [debug]: [GET], [/index.html], [1.1]
+2023-02-16 18:37:59.064455 [debug]: /index.html
+2023-02-16 18:37:59.064652 [debug]: filesize:0, 1  to 254
+2023-02-16 18:37:59.166741 [info] : Client[6](127.0.0.1:54963) in, userCount:2
+2023-02-16 18:38:35.637160 [info] : ========== Server init ==========
+2023-02-16 18:38:35.637169 [info] : Port:1316, OpenLinger: false
+2023-02-16 18:38:35.637172 [info] : Listen Mode: ET, OpenConn Mode: ET
+2023-02-16 18:38:35.637174 [info] : LogSys level: 0
+2023-02-16 18:38:35.637176 [info] : srcDir: /home/tang/WebServer/resources/
+2023-02-16 18:38:35.637178 [info] : SqlConnPool num: 12, ThreadPool num: 6
+2023-02-16 18:38:35.637180 [info] : ========== Server start ==========
+2023-02-16 18:38:38.478160 [info] : Client[6](127.0.0.1:56499) in, userCount:1
+2023-02-16 18:38:38.478278 [info] : Client[6] in!
+2023-02-16 18:38:38.481312 [debug]: [GET], [/index.html], [1.1]
+2023-02-16 18:38:38.481412 [debug]: /index.html
+2023-02-16 18:38:38.481441 [debug]: file path /home/tang/WebServer/resources//index.html
+2023-02-16 18:38:38.481787 [info] : Client[8](127.0.0.1:57011) in, userCount:2
+2023-02-16 18:38:38.481921 [info] : Client[8] in!
+2023-02-16 18:38:38.482054 [debug]: filesize:3148, 2  to 3270
+2023-02-16 18:38:38.497244 [debug]: [GET], [/css/bootstrap.min.css], [1.1]
+2023-02-16 18:38:38.497434 [debug]: /css/bootstrap.min.css
+2023-02-16 18:38:38.497514 [debug]: file path /home/tang/WebServer/resources//css/bootstrap.min.css
+2023-02-16 18:38:38.497744 [debug]: [GET], [/css/animate.css], [1.1]
+2023-02-16 18:38:38.497898 [debug]: /css/animate.css
+2023-02-16 18:38:38.497974 [debug]: file path /home/tang/WebServer/resources//css/animate.css
+2023-02-16 18:38:38.498308 [debug]: filesize:121260, 2  to 121384
+2023-02-16 18:38:38.498656 [debug]: filesize:72922, 2  to 73045
+2023-02-16 18:38:38.504250 [debug]: [GET], [/css/magnific-popup.css], [1.1]
+2023-02-16 18:38:38.504513 [debug]: /css/magnific-popup.css
+2023-02-16 18:38:38.504611 [debug]: file path /home/tang/WebServer/resources//css/magnific-popup.css
+2023-02-16 18:38:38.505204 [debug]: filesize:6951, 2  to 7073
+2023-02-16 18:38:38.508703 [debug]: [GET], [/css/font-awesome.min.css], [1.1]
+2023-02-16 18:38:38.508890 [debug]: /css/font-awesome.min.css
+2023-02-16 18:38:38.508978 [debug]: file path /home/tang/WebServer/resources//css/font-awesome.min.css
+2023-02-16 18:38:38.509508 [debug]: filesize:27392, 2  to 27515
+2023-02-16 18:38:38.512860 [debug]: [GET], [/css/style.css], [1.1]
+2023-02-16 18:38:38.513006 [debug]: /css/style.css
+2023-02-16 18:38:38.513092 [debug]: file path /home/tang/WebServer/resources//css/style.css
+2023-02-16 18:38:38.513487 [debug]: filesize:9807, 2  to 9929
+2023-02-16 18:38:38.513933 [debug]: [GET], [/js/jquery.js], [1.1]
+2023-02-16 18:38:38.514059 [debug]: /js/jquery.js
+2023-02-16 18:38:38.514141 [debug]: file path /home/tang/WebServer/resources//js/jquery.js
+2023-02-16 18:38:38.514852 [debug]: filesize:85658, 2  to 85788
+2023-02-16 18:38:38.518077 [debug]: [GET], [/js/bootstrap.min.js], [1.1]
+2023-02-16 18:38:38.518243 [debug]: /js/bootstrap.min.js
+2023-02-16 18:38:38.518315 [debug]: file path /home/tang/WebServer/resources//js/bootstrap.min.js
+2023-02-16 18:38:38.518830 [debug]: filesize:36868, 2  to 36998
+2023-02-16 18:38:38.519704 [debug]: [GET], [/js/smoothscroll.js], [1.1]
+2023-02-16 18:38:38.519860 [debug]: /js/smoothscroll.js
+2023-02-16 18:38:38.519980 [debug]: file path /home/tang/WebServer/resources//js/smoothscroll.js
+2023-02-16 18:38:38.520368 [debug]: filesize:4474, 2  to 4603
+2023-02-16 18:38:38.523463 [debug]: [GET], [/js/jquery.magnific-popup.min.js], [1.1]
+2023-02-16 18:38:38.523635 [debug]: /js/jquery.magnific-popup.min.js
+2023-02-16 18:38:38.523737 [debug]: file path /home/tang/WebServer/resources//js/jquery.magnific-popup.min.js
+2023-02-16 18:38:38.524217 [debug]: filesize:20932, 2  to 21062
+2023-02-16 18:38:38.525644 [debug]: [GET], [/js/magnific-popup-options.js], [1.1]
+2023-02-16 18:38:38.525800 [debug]: /js/magnific-popup-options.js
+2023-02-16 18:38:38.525895 [debug]: file path /home/tang/WebServer/resources//js/magnific-popup-options.js
+2023-02-16 18:38:38.526277 [debug]: filesize:1069, 2  to 1198
+2023-02-16 18:38:38.528349 [debug]: [GET], [/js/wow.min.js], [1.1]
+2023-02-16 18:38:38.528622 [debug]: /js/wow.min.js
+2023-02-16 18:38:38.528863 [debug]: file path /home/tang/WebServer/resources//js/wow.min.js
+2023-02-16 18:38:38.529488 [debug]: filesize:7082, 2  to 7211
+2023-02-16 18:38:38.530549 [debug]: [GET], [/js/custom.js], [1.1]
+2023-02-16 18:38:38.530742 [debug]: /js/custom.js
+2023-02-16 18:38:38.530823 [debug]: file path /home/tang/WebServer/resources//js/custom.js
+2023-02-16 18:38:38.531234 [debug]: filesize:1047, 2  to 1176
+2023-02-16 18:38:38.533799 [debug]: [GET], [/images/profile-image.jpg], [1.1]
+2023-02-16 18:38:38.533960 [debug]: /images/profile-image.jpg
+2023-02-16 18:38:38.534052 [debug]: file path /home/tang/WebServer/resources//images/profile-image.jpg
+2023-02-16 18:38:38.534532 [debug]: filesize:47176, 2  to 47300
+2023-02-16 18:38:38.745420 [info] : Client[7](127.0.0.1:57523) in, userCount:3
+2023-02-16 18:38:38.745541 [info] : Client[7] in!
+2023-02-16 18:38:38.806682 [info] : Client[9](127.0.0.1:58035) in, userCount:4
+2023-02-16 18:38:38.806909 [info] : Client[9] in!
+2023-02-16 18:38:38.807000 [info] : Client[10](127.0.0.1:58547) in, userCount:5
+2023-02-16 18:38:38.807099 [info] : Client[10] in!
+2023-02-16 18:38:38.822205 [info] : Client[11](127.0.0.1:59059) in, userCount:6
