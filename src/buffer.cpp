@@ -102,13 +102,13 @@ size_t Buffer::ReadFd(int fd, int* saveErrno) {
 }
 
 size_t Buffer::WriteFd(int fd, int* saveErrno) {
-  size_t readable=ReadableBytes();
-  ssize_t len=write(fd,Peek(),readable);
-  if(len<0){
-    *saveErrno=errno;
+  size_t readable = ReadableBytes();
+  ssize_t len = write(fd, Peek(), readable);
+  if (len < 0) {
+    *saveErrno = errno;
     return len;
   }
-  read_pos_+=len;
+  read_pos_ += len;
   return len;
 }
 
