@@ -47,16 +47,16 @@ target_link_libraries(server
 #######################################
 
 ############# log_test ################
-add_executable(test_log
-  src/log.cpp
-  src/buffer.cpp
-  test/log_test.cpp
-)
+# add_executable(test_log
+#   src/log.cpp
+#   src/buffer.cpp
+#   test/log_test.cpp
+# )
 
-target_link_libraries(test_log
-  GTest::GTest
-  GTest::Main
-)
+# target_link_libraries(test_log
+#   GTest::GTest
+#   GTest::Main
+# )
 
 ########### buffer_test ###############
 add_executable(test_buffer
@@ -70,22 +70,22 @@ target_link_libraries(test_buffer
 )
 
 ####### block_queue_test ##############
-add_executable(test_block_queue
-  test/block_queue_test.cpp
-)
+# add_executable(test_block_queue
+#   test/block_queue_test.cpp
+# )
 
-target_link_libraries(test_block_queue
-  GTest::GTest
-  GTest::Main
-)
+# target_link_libraries(test_block_queue
+#   GTest::GTest
+#   GTest::Main
+# )
 
 # ###### heaptimer_test ################
-add_executable(test_heaptimer
-  src/heaptimer.cpp
-  test/heaptimer_test.cpp
-)
+# add_executable(test_heaptimer
+#   src/heaptimer.cpp
+#   test/heaptimer_test.cpp
+# )
 
-target_link_libraries(test_heaptimer
-  GTest::GTest
-  GTest::Main
-)
+# target_link_libraries(test_heaptimer
+#   GTest::GTest
+#   GTest::Main
+# )

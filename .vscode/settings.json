@@ -58,6 +58,11 @@
     "ostream": "cpp",
     "semaphore": "cpp",
     "cinttypes": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "any": "cpp",
+    "set": "cpp",
+    "optional": "cpp",
+    "iomanip": "cpp",
+    "variant": "cpp"
   }
 }
